@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-css-elements-using-hover-and-focus-states-iJpthNlHmO)
 - Live Site URL: [Vercel](https://blog-preview-card-gamma-neon.vercel.app/)
 
 ## My process
@@ -60,7 +60,7 @@ filter: drop-shadow(8px 8px black);
 
 ### Continued development
 
-I tried to apply what I learnt from the [qr component project](https://github.com/lynnagidza/qr-code-component) by removing redudant code ih my CSS files and applying [landmarks](https://dequeuniversity.com/rules/axe/4.2/landmark-one-main?application=axeAPI) in my HTML file.
+I tried to apply what I learnt from the [qr component project](https://github.com/lynnagidza/qr-code-component) by removing redudant code ih my CSS files and applying [landmarks](https://dequeuniversity.com/rules/axe/4.2/landmark-one-main?application=axeAPI) to improve accessibility in my HTML file.
 
 ### Useful resources
 
